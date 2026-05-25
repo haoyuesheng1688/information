@@ -1,0 +1,45 @@
+{
+  "project": {
+    "name": "low-temperature-spray-dryer-intelligence",
+    "workspace": "D:\\skills\\codex\\information",
+    "github_repo": "haoyuesheng1688/information",
+    "notion_parent_title": "infomation"
+  },
+  "core_keywords": [
+    "35C inlet low-temperature spray dryer",
+    "low temperature spray drying",
+    "lyophilization alternative",
+    "freeze drying replacement",
+    "activity retention",
+    "continuous drying",
+    "lab-to-market scale-up",
+    "energy saving"
+  ],
+  "priority_industries": [
+    "GLP-1 peptide drugs",
+    "peptide CDMO",
+    "biologics and proteins",
+    "enzymes and probiotics",
+    "vaccines and mRNA dry formats",
+    "functional food encapsulation",
+    "natural extracts",
+    "heat-sensitive new materials"
+  ],
+  "rd_metrics": [
+    "outlet temperature",
+    "residence time",
+    "residual moisture",
+    "water activity",
+    "particle size distribution",
+    "activity retention rate",
+    "protein aggregation",
+    "peptide chemical stability",
+    "probiotic viability",
+    "reconstitution behavior"
+  ],
+  "color_rules": {
+    "red": "关键技术/工艺突破/核心痛点",
+    "blue": "全球市场动态/政策趋势",
+    "green": "潜在客户/商机/批量化产线需求"
+  }
+}
