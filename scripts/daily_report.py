@@ -17,7 +17,7 @@ DEFAULT_NOTION_PARENT_PAGE_ID = "36bc8717-dee0-812d-82d3-e2892298cd2c"
 
 
 def require_env(name: str) -> str:
-    value = os.environ.get(name, "").strip()
+    value = os.environ.get(name, "").replace("\ufeff", "").strip()
     if not value:
         raise SystemExit(f"Missing required environment variable: {name}")
     return value
