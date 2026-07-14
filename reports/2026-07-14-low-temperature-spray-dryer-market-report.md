@@ -1,162 +1,124 @@
 # 2026-07-14 低温喷雾干燥机行业情报日报
-## 执行摘要
 
-- 🔵 **已验证事实：** 截至 **2026-07-14**，FDA 已确认将在 **2026-07-23 至 2026-07-24** 召开 Pharmacy Compounding Advisory Committee 会议，议题覆盖 **BPC-157、KPV、TB-500、MOTs-C、Emideltide、Semax、Epitalon** 等多种多肽原料，其中 **MOTs-C** 明确关联 **obesity and osteoporosis** 用途。多肽相关配制、合规与质量属性定义正在继续收紧。
-- 🔵 **已验证事实：** **Morinaga Milk** 于 **2026-07-06** 宣布其热处理 postbiotic 原料 `LAC-Living+` 获得美国 self-affirmed GRAS，并强调其在热加工、含湿环境与延长货架期中的稳定性；**Del Monte Corporation / Treatt** 于 **2026-07-07** 推出 upcycled fruit extract range，强调天然提取物的透明配方、稳定供给与饮料应用性能。
-- 🔵 **已验证事实：** 2026 年上半年，**Symeres**、**ESTEVE CDMO**、**Axplora**、**Ohly** 持续加码 spray drying 或 lyophilization 产能，说明市场真实方向不是“单路线替代”，而是围绕 **可放大、可表征、可稳定供应** 的粉体制造平台竞争。
-- 🔴 **关键判断：** `35C inlet low-temperature spray dryer` 当前最强商业定位仍不是“全面替代 lyophilization / freeze drying”，而是 **低热史筛选平台 + 冻干减载工具 + 中试放大加速器**。优先切入 **GLP-1 / peptide CDMO、biologics / proteins、postbiotics / enzymes、天然提取物 / functional food encapsulation** 四条线。
-- 🟢 **我方机会：** 对医药客户主打 `activity retention + residual moisture + water activity + reconstitution behavior` 的最小验证包；对食品与原料客户主打 `continuous powder production + clean-label encapsulation + shelf-stability` 的快速验证包。
+## 1. 执行摘要
+- 🔵 GLP‑1相关支付与准入继续成为全球医药产业短期主线：美国华盛顿邮报于7月12日报道，CVS Health（含Aetna）CEO称在价格与成本节约证据不足前，商业保险对GLP‑1减重适应症的普及性覆盖仍将受限；但7月1日起CMS“Medicare GLP‑1 Bridge”项目为部分人群提供至2027年的有限补助，形成“公共支付托底+商保谨慎”的短期格局。([washingtonpost.com](https://www.washingtonpost.com/health/2026/07/12/cvs-exec-explains-why-your-health-plan-wont-cover-glp-1s-weight-loss/?utm_source=openai))  
+- 🔵 CDMO产能版图微调：7月13日Bora Biologics宣布扩大美国DS平台并新增马里兰Rockville站点；7月7日Codis收购Catalent诺丁汉站点巩固其喷雾干燥/ASD能力，显示固体口服与喷雾干燥工程仍在整合扩张。([borabiologics.com](https://www.borabiologics.com/press-releases/bora-biologics-expands-u-s-commercial-manufacturing-platform-with-addition-of-rockville-site?utm_source=openai))  
+- 🔴 技术脉动（近72小时及最近一周内与喷雾干燥/冻干相关）：  
+  - FDA定于7月23–24日PCAC讨论7种可配制肽类的合规性，监管趋严将推动合规CDMO与稳定化干燥技术方案（含低温喷雾/喷雾冻干/连续冻干）成为合规替代路线。([news.bloomberglaw.com](https://news.bloomberglaw.com/health-law-and-business/fda-staff-skeptical-of-seven-peptides-reviewed-for-compounding?utm_source=openai))  
+  - 血浆干燥：7月1日Transfusion上线研究与Velico临床更新显示喷雾干燥血浆（SDP）在安全性与平台化上取得进展，凸显对热/剪切敏感蛋白体系的温和干燥与无菌保障需求。([doi.org](https://doi.org/10.1111/trf.70219?utm_source=openai))  
+  - mRNA干粉：7月内公开的美国专利申请披露喷雾干燥mRNA‑LNP/聚合物体系工艺窗口（如进风90°C/出风46–50°C），与近期综述中对喷雾干燥LNP干粉在室温稳定与肺部递送的潜力相呼应。([eureka.patsnap.com](https://eureka.patsnap.com/patent/US20260191791A1?utm_source=openai))  
+- 🟢 我方机会：针对GLP‑1肽、蛋白/酶、益生菌及mRNA干粉的“低温/温和”连续化干燥验证方案，聚焦活性/结构保留、可复溶性和能效。注意：35°C进风并非对所有物料适配，需按体系定制工艺窗口（原料特性/溶剂/固含/雾化方式/收粉方式）。
 
-## 1. 全球市场动态 (Global Market Dynamics)
+## 2. 全球市场动态 (Global Market Dynamics)
+- 🔵 商保与医保分化：  
+  - 华邮7月12日专访称，CVS/Aetna对GLP‑1覆盖仍审慎，关键在价格与长期成本节约证据；这将继续把压力传导至上游生产成本与制剂可及性技术（含干燥减冷链、提高单位剂量稳定性）。([washingtonpost.com](https://www.washingtonpost.com/health/2026/07/12/cvs-exec-explains-why-your-health-plan-wont-cover-glp-1s-weight-loss/?utm_source=openai))  
+  - CMS“Medicare GLP‑1 Bridge”自7月1日生效，为特定Medicare人群提供每月50美元自付上限，至2027年底；短期或抬升合规产能与供应链韧性诉求。([cms.gov](https://www.cms.gov/newsroom/press-releases/cms-launches-medicare-glp-1-bridge-expanding-access-glp-1-medications?utm_source=openai))
+- 🔵 CDMO结构与资本动向（近7–14天，紧邻窗口）：  
+  - Codis将收购Catalent诺丁汉站点并已投资GEA PSD‑4溶剂型喷雾干燥产线（商用级），进一步完善从处方开发到小规模商业化的一体化路径。([pharmamanufacturing.com](https://www.pharmamanufacturing.com/industry-news/news/55389133/catalent-to-sell-uk-facility-to-codis-in-spray-drying-expansion?utm_source=openai))  
+  - Bora Biologics 7月13日扩充美国生物药DS平台与质量体系资源，显示北美生物制药外包产能持续加码。([borabiologics.com](https://www.borabiologics.com/press-releases/bora-biologics-expands-u-s-commercial-manufacturing-platform-with-addition-of-rockville-site?utm_source=openai))
+- 🔵 规范与政策前瞻：  
+  - FDA将于7月23–24日PCAC审议7种肽类配制；此前FDA已在4月提议将司美格鲁肽/替尔泊肽/利拉鲁肽排除出503B配制用原料清单，合规来源与工业化供应的重要性上升。([news.bloomberglaw.com](https://news.bloomberglaw.com/health-law-and-business/fda-staff-skeptical-of-seven-peptides-reviewed-for-compounding?utm_source=openai))
 
-### 已验证事实
+## 3. 研发工艺匹配报告 (R&D & Process Alignment Report)
+说明：本节区分“已验证事实/来源”“来源推断”“我方可切入机会”，并提出可验证小试指标。绝不泛化宣称35°C进风适用于所有物料。
 
-- 🔵 **美国多肽相关监管议程继续前移。** FDA 已公布 **2026-07-23/24** PCAC 会议，7 月 23 日将讨论 `BPC-157 / KPV / TB-500 / MOTs-C`，7 月 24 日将讨论 `Emideltide / Semax / Epitalon`；其中 MOTs-C 的评估用途明确写到 **obesity and osteoporosis**。  
-  含义：GLP-1、减重及 broader peptide 赛道客户，对工艺可审计、质量属性可定义、放大路线可解释的需求继续增强。
-- 🔵 **功能食品与 postbiotic 商业化在近一周内继续落地。** Morinaga 的 `LAC-Living+` 获得美国 self-affirmed GRAS，并强调其为 **heat-treated postbiotic**，适配补充剂、功能食品和饮料；Del Monte / Treatt 新推出的 fruit-derived extracts 则强调 **ingredient transparency、responsible sourcing、beverage performance**。  
-  含义：热敏活性原料的“稳定化粉体”需求并未减弱，且食品端成单速度通常快于创新药端。
-- 🔵 **CDMO 与配方开发方仍在同步建设 spray drying 能力。** Symeres 于 **2026-06-10** 扩展 Cranbury CMC 基地的 spray drying，覆盖 `laboratory-scale + pilot-scale`，并明确服务 `rapid material screening / process optimisation / scalable process development`；ESTEVE 于 **2026-03-20** 宣布 Girona 新增多套 spray dryers 与 containment。  
-  含义：客户采购逻辑正在从“设备采购”转向“开发验证 + 工艺放大 + 分析表征”一体化能力。
-- 🔵 **冻干产能并未退出，反而继续扩张。** Axplora 于 **2026-02-18** 宣布扩建 Le Mans 的 lyophilization 能力，并指出该投资直接响应客户对 `control / speed / predictability` 的需求。  
-  含义：真实市场是 spray drying 与 freeze drying 并行扩张，谁能帮助客户降低冻干占用并提前筛掉不稳定配方，谁更容易赢得预算。
-- 🔵 **功能原料制造端开始把 spray drying 与节能绑定。** Ohly 于 **2026-01-15** 宣布 Hamburg 新 spray drying tower 已投运，首批 dried yeast specialties 已开始发货，并强调 `heat recovery system` 与内部产能提升可减少外部转运。  
-  含义：`energy saving` 在食品和原料端比在医药端更容易直接转化为采购理由，但前提仍是稳定质量和供给安全。
-- 🔵 **食品配方监管语境仍在收紧。** FDA 于 **2026-07-10** 更新其 food chemical safety post-market assessment 进展，并继续推进对 BHT、ADA 的 reassessment。  
-  含义：天然提取物、clean-label 包埋、低添加配方的叙事将继续增强，利好低温粉体化与温和加工方案。
+- GLP‑1肽类（司美格鲁肽/替尔泊肽等）
+  - 已验证事实/来源：支付与合规变化将驱动合规化大生产与成本控制；肽类CDMO在全球持续扩产（CordenPharma、PolyPeptide等此前已宣布扩能）。([cms.gov](https://www.cms.gov/newsroom/press-releases/cms-launches-medicare-glp-1-bridge-expanding-access-glp-1-medications?utm_source=openai))
+  - 来源推断：若商业保险覆盖放缓，品牌与仿制/生物类似路线均更看重单位剂量稳定性与物流成本，利于探索“温和干燥+室温/冷藏稳定”策略，降低总拥有成本（TCO）。  
+  - 我方小试指标建议（注：按配方与给药途径细化）：  
+    - 纯度/降解：RP‑HPLC主峰≥98%，有关物质增长≤+1.0%（40°C/75%RH，密闭7天加速后）。  
+    - 聚集：SEC‑HPLC聚集体≤2.0%。  
+    - 残余溶剂/水分：符合ICH Q3C；KF水分≤1.5%，水活性aw≤0.20。  
+    - 复溶性：PBS或处方缓冲液中≤60秒完全溶解，过0.22 µm可滤性良好。  
+    - 工艺窗口探索：进风45–80°C（或等效低焓/电场辅助干燥），出风35–55°C，雾化方式筛选（气流/两流体/静电/喷雾冻干雾化前体）。专利与文献显示某些配方在进风低至约35–40°C也可运行，但需结合固含/载体/热史定制。([patentimages.storage.googleapis.com](https://patentimages.storage.googleapis.com/69/65/de/25adb5d29065fc/WO2022256464A1.pdf?utm_source=openai))
 
-### 来源推断
+- 蛋白/生物大分子（含血浆蛋白、抗体等）
+  - 已验证事实/来源：喷雾干燥血浆（SDP）最新临床/期刊更新显示平台化可行性提升；生物制剂喷雾干燥路线在CRS 2026议程中被强调其在稳定固体制剂与超高浓体系的角色。([doi.org](https://doi.org/10.1111/trf.70219?utm_source=openai))  
+  - 我方小试指标建议：  
+    - 单体含量≥95%（SEC），可见/不可见颗粒符合USP <788>/<787>（复溶后）。  
+    - 生物活性保持≥90%（体外功能测定）；蛋白氧化/脱酰胺限度内控。  
+    - 残余水分≤2.0%，aw≤0.20；复溶澄清度（透光率）>95%。  
+    - 工艺：优先“低焓干燥”或电场辅助喷雾干燥（ESD/PolarDry类）与雾化剪切最小化；必要时采用喷雾‑冻干（SFD）或连续冻干衔接验证。([gea.com](https://www.gea.com/assets/drying-spray-pharmaceutical-gea-170517.pdf?utm_source=openai))
 
-- 🔴 未来 3-6 个月，市场更愿意为 **缩短开发周期、降低冻干占用、提升配方筛选效率** 付费，而不是先为单纯 `35C` 或 `energy saving` 概念买单。
-- 🔴 对 peptide / GLP-1 客户，单讲低温不够，必须拿出 `outlet temperature / residual moisture / water activity / peptide stability / reconstitution` 的证据链。
-- 🔴 对 postbiotic / 天然提取物客户，**稳定性与应用适配** 比“活性口号”更容易驱动试样与打样。
+- mRNA/LNP与疫苗干粉
+  - 已验证事实/来源：近期专利与综述显示喷雾干燥/喷雾冻干可获得LNP干粉，室温稳定可达数月，并具备肺部/鼻腔递送潜力。([eureka.patsnap.com](https://eureka.patsnap.com/patent/US20260191791A1?utm_source=openai))  
+  - 我方小试指标建议：  
+    - mRNA完整性≥90%（变性凝胶或LC‑MS表征）；体外转译活性≥80%（相对液体对照）。  
+    - LNP复溶后Z均80–120 nm，PDI≤0.25，包封率≥85%。  
+    - 残余溶剂达ICH限度；干粉DPI用FPF≥50%（鼻递送粒径按目标段优化）。
 
-### 我方可切入机会
+- 酶制剂/益生菌/功能食品与天然提取物
+  - 已验证事实/来源：多项研究与综述强调喷雾干燥对益生菌的热/氧应激敏感性，配方（蛋白/多糖/天然胶）与较低出风温度、低水活性对活性保持关键；低温真空喷雾干燥（VSD）在学生课题中对L. reuteri显示可行的生存率。([frontiersin.org](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1893153/abstract?utm_source=openai))  
+  - 我方小试指标建议：  
+    - 益生菌：出粉≥1×10^9 CFU/g，干燥损失≤1 log；90天/25°C后≥1×10^8 CFU/g；aw≤0.20；复水生存率≥80%。  
+    - 酶：比活保持≥90%，pH与温度曲线无显著漂移；KF≤3%。  
+    - 植物/天然提取物与热敏材料：目标活性成分保留≥95%，溶出或分散度与感官指标稳定。
 
-- 🟢 面向 `peptide CDMO / GLP-1`，定位为 `pre-lyophilization offload` 与 `powder intermediate feasibility screening`。
-- 🟢 面向 `biologics / proteins`，定位为 `low-thermal-history screening platform`，重点证明 aggregation 与复溶边界。
-- 🟢 面向 `postbiotics / enzymes / probiotics`，定位为 `stability-first continuous powder solution`。
-- 🟢 面向 `natural extracts / functional food encapsulation`，定位为 `clean-label pilot powdering + shelf-stability validation`。
+- 重要工艺注意
+  - 🔴 35°C级低进风仅适用于特定高载体/高固含/强玻璃化体系或电场辅助雾化与低焓干燥条件；不应一刀切。PCT与厂家资料存在“低于40–50°C”的窗口描述，但需以出风、颗粒尺度与干燥历程综合判定。([patentimages.storage.googleapis.com](https://patentimages.storage.googleapis.com/69/65/de/25adb5d29065fc/WO2022256464A1.pdf?utm_source=openai))
 
-## 2. 研发工艺匹配报告 (R&D & Process Alignment Report)
+## 4. 市场与前景评估报告 (Market & Outlook Report)
+- 短期（1–2年）  
+  - 🔵 支付格局：Medicare“Bridge”托底+商保谨慎将维持GLP‑1需求高位但价格压力上行，驱动“更稳、更省、更快”的制剂与工艺路线。([cms.gov](https://www.cms.gov/newsroom/press-releases/cms-launches-medicare-glp-1-bridge-expanding-access-glp-1-medications?utm_source=openai))  
+  - 🔵 产能结构：欧美CDMO继续通过并购/增设站点形成区域化网络（Codis、Bora Biologics等），对温和干燥与无菌喷雾能力的外包需求递增。([pharmamanufacturing.com](https://www.pharmamanufacturing.com/industry-news/news/55389133/catalent-to-sell-uk-facility-to-codis-in-spray-drying-expansion?utm_source=openai))  
+- 中期（3–5年）  
+  - 🔵 监管与合规：肽类配制监管的收紧与行业自律将把“合规稳定性数据+可追溯工艺验证”推至前台，优选连续化、可PAT监控的干燥单元（含连续冻干、无菌喷雾干燥、喷雾‑冻干混合链）。([news.bloomberglaw.com](https://news.bloomberglaw.com/health-law-and-business/fda-staff-skeptical-of-seven-peptides-reviewed-for-compounding?utm_source=openai))  
+  - 🔵 技术演进：mRNA‑LNP干粉、蛋白/抗体喷雾固化与SDP等方向沿“室温稳定/冷链降级/快速复溶”价值主线推进。([nature.com](https://www.nature.com/articles/s44222-026-00424-8?utm_source=openai))
 
-### 工艺定位
+## 5. 每日精准潜在客户画像 (Potential Customers & Leads)
+- 🟢 Velico Medical（喷雾干燥血浆）  
+  - 需求信号：推进Frontline ODP喷雾干燥血浆的临床转化，强调安全性与快速现场供应。  
+  - 我方切入：提供“无菌/低焓雾化+短滞留时间”中试评估、含室温/45°C加速稳定性与复溶澄清度对比。([veli.co](https://www.veli.co/velico-announces-successful-clinical-trial/?utm_source=openai))
+- 🟢 Bora Biologics（美国生物药CDMO，7月13日扩产）  
+  - 需求信号：新增DS平台、完善质量与放行稳定支持。  
+  - 我方切入：为重组蛋白/酶类提供“低温喷雾/喷雾‑冻干”双路线筛选与放大评估（侧重活性保持与粉体充填/二次包装）。([borabiologics.com](https://www.borabiologics.com/press-releases/bora-biologics-expands-u-s-commercial-manufacturing-platform-with-addition-of-rockville-site?utm_source=openai))
+- 🟢 Codis（喷雾干燥与ASD能力整合）  
+  - 需求信号：商用级GEA PSD‑4投建与站点收购，或对特殊热敏/生物大分子类低温方案存在联合开发窗口。  
+  - 我方切入：提供“低温进风/电场辅助喷雾”在热敏小分子/肽类的对比数据，寻求联合工艺平台合作。([manufacturingchemist.com](https://www.manufacturingchemist.com/codis-acquires-catalent-nottingham-site-europe-spray-dry?utm_source=openai))
+- 🟢 GLP‑1产业链参与者（Amneal/Adalvo仿制替尔泊肽自动注射器、PolyPeptide/CordenPharma等肽CDMO）  
+  - 我方切入：为肽类提供“高固含、快速复溶、低水活性”干粉注射或鼻/肺部探索性制剂的先导试验（强调合规数据包）。([investors.amneal.com](https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-and-Adalvo-Announce-FDA-Acceptance-for-Review-of-Two-U-S--ANDAs-for-Generic-Tirzepatide-Autoinjector-2026-_ei9_NKxPV/default.aspx?utm_source=openai))
+- 🟢 益生菌/功能食品品牌与代工  
+  - 我方切入：以“低温/低氧/低水活性”策略提升常温货架期；提供木聚糖/植物蛋白等新型壁材筛选与CFU留存数据包。([frontiersin.org](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1893153/abstract?utm_source=openai))
 
-- 🔴 **最优定位方案：** 先把 35C 低温喷雾干燥作为 `screening and scale-up tool`，再根据数据决定是继续 spray drying 放大，还是回到 lyophilization 商业化路线。
-- 🔴 **微型验证优先：** 先做两个小案例。  
-  `Case A`: `model peptide / GLP-1 analogue`  
-  `Case B`: `postbiotic / enzyme / natural extract`
+## 6. 当日行动建议
+- 针对GLP‑1/肽类客户：
+  - 设计“温和喷雾三联试验包”（低焓喷雾、静电喷雾、喷雾‑冻干前体），7个工作日内输出纯度/聚集/复溶/aw/KF/加速稳定的对比卡，明确与传统冻干的能耗与周期差异。  
+- 针对蛋白/酶制剂与SDP方向：
+  - 组建“无菌喷雾干燥”合规清单（洁净级别、在线粒子计数、端到端无菌保障），并与潜在客户（Velico/Bora）开展URS澄清会。  
+- 针对益生菌/功能食品：
+  - 启动壁材‑工艺DoE（蛋白/多糖/氨基酸体系×出风温度×aw控制），目标在常温90天CFU≥1×10^8/g。  
+- 工艺与设备：
+  - 建立“35–50°C低进风窗口”验证SOP，仅针对已筛选出具备高玻璃化载体与合适固含的配方；无法满足者转入SFD/连续冻干评估，避免过度承诺。
 
-### 医药物料小试必测指标
+## 7. 来源链接
+- Washington Post（2026-07-12）：Why your health plan doesn’t cover GLP‑1s  
+  https://www.washingtonpost.com/health/2026/07/12/cvs-exec-explains-why-your-health-plan-wont-cover-glp-1s-weight-loss/ ([washingtonpost.com](https://www.washingtonpost.com/health/2026/07/12/cvs-exec-explains-why-your-health-plan-wont-cover-glp-1s-weight-loss/?utm_source=openai))
+- CMS（2026-07-01）：Medicare GLP‑1 Bridge项目  
+  https://www.cms.gov/newsroom/press-releases/cms-launches-medicare-glp-1-bridge-expanding-access-glp-1-medications ([cms.gov](https://www.cms.gov/newsroom/press-releases/cms-launches-medicare-glp-1-bridge-expanding-access-glp-1-medications?utm_source=openai))
+- NYC Memo（2026-07-13）：GLP‑1市场三大催化点评  
+  https://www.nycmemo.com/news/glp1-three-catalysts-one-trade-july-2026 ([nycmemo.com](https://www.nycmemo.com/news/glp1-three-catalysts-one-trade-july-2026?utm_source=openai))
+- Bora Biologics（2026-07-13）：扩充美国生物药DS平台  
+  https://www.borabiologics.com/press-releases/bora-biologics-expands-u-s-commercial-manufacturing-platform-with-addition-of-rockville-site ([borabiologics.com](https://www.borabiologics.com/press-releases/bora-biologics-expands-u-s-commercial-manufacturing-platform-with-addition-of-rockville-site?utm_source=openai))
+- PharmaManufacturing/Manufacturing Chemist（2026-07-07）：Codis收购Catalent诺丁汉并扩展喷雾干燥  
+  https://www.pharmamanufacturing.com/industry-news/news/55389133/catalent-to-sell-uk-facility-to-codis-in-spray-drying-expansion ([pharmamanufacturing.com](https://www.pharmamanufacturing.com/industry-news/news/55389133/catalent-to-sell-uk-facility-to-codis-in-spray-drying-expansion?utm_source=openai))  
+  https://www.manufacturingchemist.com/codis-acquires-catalent-nottingham-site-europe-spray-dry ([manufacturingchemist.com](https://www.manufacturingchemist.com/codis-acquires-catalent-nottingham-site-europe-spray-dry?utm_source=openai))
+- Velico Medical（2026-07-01）与Transfusion（2026-07-01）：喷雾干燥血浆进展  
+  https://www.veli.co/velico-announces-successful-clinical-trial/ ([veli.co](https://www.veli.co/velico-announces-successful-clinical-trial/?utm_source=openai))  
+  https://doi.org/10.1111/trf.70219 ([doi.org](https://doi.org/10.1111/trf.70219?utm_source=openai))
+- FDA PCAC（背景新闻，2026-06-30）：将于7月23–24日审议7种肽类  
+  https://news.bloomberglaw.com/health-law-and-business/fda-staff-skeptical-of-seven-peptides-reviewed-for-compounding ([news.bloomberglaw.com](https://news.bloomberglaw.com/health-law-and-business/fda-staff-skeptical-of-seven-peptides-reviewed-for-compounding?utm_source=openai))
+- Amneal/Adalvo（2026-07-08）：替尔泊肽自动注射器ANDA受理  
+  https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-and-Adalvo-Announce-FDA-Acceptance-for-Review-of-Two-U.S.--ANDAs-for-Generic-Tirzepatide-Autoinjector-2026-_ei9_NKxPV/default.aspx ([investors.amneal.com](https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-and-Adalvo-Announce-FDA-Acceptance-for-Review-of-Two-U-S--ANDAs-for-Generic-Tirzepatide-Autoinjector-2026-_ei9_NKxPV/default.aspx?utm_source=openai))
+- mRNA干粉专利与综述（2026-07/2026-04）：  
+  https://eureka.patsnap.com/patent/US20260191791A1 ([eureka.patsnap.com](https://eureka.patsnap.com/patent/US20260191791A1?utm_source=openai))  
+  https://www.nature.com/articles/s44222-026-00424-8 ([nature.com](https://www.nature.com/articles/s44222-026-00424-8?utm_source=openai))
+- GEA/喷雾干燥（资料）：  
+  https://www.gea.com/assets/drying-spray-pharmaceutical-gea-170517.pdf ([gea.com](https://www.gea.com/assets/drying-spray-pharmaceutical-gea-170517.pdf?utm_source=openai))
+- 低温窗口（专利示例，含“≥约35°C进风”情形）  
+  https://patentimages.storage.googleapis.com/69/65/de/25adb5d29065fc/WO2022256464A1.pdf ([patentimages.storage.googleapis.com](https://patentimages.storage.googleapis.com/69/65/de/25adb5d29065fc/WO2022256464A1.pdf?utm_source=openai))
+- 益生菌与低温干燥参考（2026综述与VSD学生研究）：  
+  https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1893153/abstract ([frontiersin.org](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1893153/abstract?utm_source=openai))  
+  https://lup.lub.lu.se/student-papers/search/publication/9230559 ([lup.lub.lu.se](https://lup.lub.lu.se/student-papers/search/publication/9230559?utm_source=openai))
 
-- 🔴 `outlet temperature`
-- 🔴 `residence time`
-- 🔴 `residual moisture`
-- 🔴 `water activity`
-- 🔴 `particle size distribution`
-- 🔴 `activity retention rate`
-- 🔴 `peptide chemical stability`
-- 🔴 `protein aggregation`
-- 🔴 `reconstitution behavior`
-
-### 功能食品/原料小试必测指标
-
-- 🔴 `probiotic viability` 或 `postbiotic functional marker consistency`
-- 🔴 `enzyme activity retention`
-- 🔴 `encapsulation efficiency`
-- 🔴 `oxidative stability`
-- 🔴 `bulk density`
-- 🔴 `flowability`
-- 🔴 `dispersibility`
-- 🔴 `7-14 day accelerated stability`
-
-### 本日研发判断
-
-- 🔴 **GLP-1 / 多肽：** 适合作为 `candidate screening tool`，优先验证 powder intermediate 能否在低热史下维持化学稳定性与可复溶性，而不是直接宣称全面替代冻干。
-- 🔴 **biologics / proteins：** 必须把 `aggregation` 与 `reconstitution behavior` 提升到和 `activity retention` 同级；若聚集不可控，则不能因为入口温度低就判定路线成立。
-- 🔴 **postbiotics / enzymes：** Morinaga 的 GRAS 进展再次说明 **非活菌、热处理、可货架稳定** 的 postbiotic 更适合作为近期市场切入口。
-- 🔴 **天然提取物：** Del Monte / Treatt 的饮料型 extract 发布说明客户更关心 `consistency / transparency / application performance`，因此我方小试应加入 `caking tendency`、风味保留与分散性评估。
-
-## 3. 市场与前景评估报告 (Market & Outlook Report)
-
-### 已验证事实
-
-- 🔵 **监管与扩产并存。** FDA 正在把多肽配制与食品添加安全同时推向更严格的证据化管理；另一侧，Symeres、ESTEVE、Axplora、Ohly 继续投资 spray drying 或 lyophilization。
-- 🔵 **spray drying 与 freeze drying 将长期并存。** 2026 年并没有出现单边替代，反而是两条路线都在扩容，只是 spray drying 更强调开发效率与连续制造，lyophilization 更强调成熟商业路径与高价值无菌场景。
-- 🔵 **食品端更快形成商业闭环。** postbiotic、fruit extract、yeast specialty 这些方向已经在用“稳定性、清洁标签、可持续、供应安全”直接驱动市场沟通。
-
-### 来源推断
-
-- 🔴 未来 6-12 个月，最容易签单的模式不是“整机替换冻干线”，而是 **验证服务包 + 小试设备 + 放大方法学 + CTQ 报告模板**。
-- 🔴 `pharmaceutical spray drying CDMO` 正在平台化，意味着我方若只卖温度概念，会被更强的 CMC/分析/放大平台压制。
-- 🔴 只要我方能在 2-3 类代表物料上沉淀出稳定 CTQ 数据，商业价值会高于一次性讲“大替代”。
-
-### 我方可切入机会
-
-- 🟢 **市场一：** `peptide CDMO / GLP-1 supply chain`  
-  切入词：`freeze-dryer bottleneck relief`、`rapid formulation screening`、`powder intermediate generation`
-- 🟢 **市场二：** `biologics / proteins / vaccines`  
-  切入词：`activity retention`、`water activity control`、`low thermal history`
-- 🟢 **市场三：** `postbiotics / enzymes / functional ingredients`  
-  切入词：`shelf-stable powder`、`continuous production`、`faster formulation iteration`
-- 🟢 **市场四：** `natural extracts / beverage ingredients / heat-sensitive materials`  
-  切入词：`clean-label encapsulation`、`pilot-scale powdering`、`responsible sourcing`
-
-## 4. 每日精准潜在客户画像 (Potential Customers & Leads)
-
-- 🟢 **Symeres / Exemplify BioPharma**  
-  触发信号：**2026-06-10** 明确扩展 Cranbury integrated spray drying，覆盖实验室与中试尺度。  
-  机会判断：适合切入 `screening + process optimisation + pilot scale-up` 叙事，对接复杂分子与开发挑战项目。
-- 🟢 **ESTEVE CDMO**  
-  触发信号：**2026-03-20** 宣布新增 PSD-2、PSD-3，并预留 commercial-scale PSD-4。  
-  机会判断：适合切入高活性、小分子与 ASD 相关的低热史验证包。
-- 🟢 **Axplora**  
-  触发信号：**2026-02-18** 继续扩冻干，强调客户对 speed / predictability / stability 的需求。  
-  机会判断：适合主打“先低温喷雾筛选、后保留冻干商业化”的混合工艺策略。
-- 🟢 **Morinaga Milk**  
-  触发信号：**2026-07-06** `LAC-Living+` 获得美国 self-affirmed GRAS。  
-  机会判断：可作为 `heat-stable postbiotic powder` 的典型客户画像。
-- 🟢 **Del Monte Corporation / Treatt**  
-  触发信号：**2026-07-07** 上线 upcycled fruit extract range。  
-  机会判断：适合作为 `natural extract encapsulation + beverage stability` 的商机画像。
-- 🟢 **Ohly**  
-  触发信号：**2026-01-15** Hamburg 新 spray drying tower 已投运并开始出货。  
-  机会判断：可作为功能原料端对 `capacity + consistency + energy efficiency` 有明确需求的客户画像。
-
-## 5. 当日行动建议 (Action Items)
-
-1. 🔴 **立即统一对外关键词。** 固定使用 `35C inlet low-temperature spray dryer`、`lyophilization alternative`、`freeze-dryer bottleneck relief`、`activity retention`、`lab-to-market scale-up`、`water activity`、`residual moisture`、`peptide stability`。
-2. 🔴 **本周先跑两个最小验证案例。**  
-   `GLP-1 / model peptide` 与 `postbiotic / natural extract` 各 1 个，全部保留对照路线与 CTQ。
-3. 🔴 **建立标准 CTQ 报告页。**  
-   固化 `outlet temperature / residence time / residual moisture / water activity / PSD / activity retention / reconstitution`。
-4. 🟢 **BD 顺序重排。**  
-   第一优先：`peptide CDMO / GLP-1`；第二优先：`biologics / proteins`；第三优先：`postbiotics / enzymes`；第四优先：`natural extracts / functional food`。
-5. 🟢 **准备两套销售包。**  
-   `Peptide low-thermal-history feasibility package`  
-   `Postbiotic / natural-extract stability-first powder package`
-
-## 6. 来源链接 (Sources)
-
-- FDA. July 23-24, 2026: Meeting of the Pharmacy Compounding Advisory Committee.  
-  https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026
-
-- FDA. FDA Finalizes Food Chemical Safety Post-Market Assessment Program, Launches Reassessment of BHT, ADA. Updated 2026-07-10.  
-  https://www.fda.gov/news-events/press-announcements/fda-finalizes-food-chemical-safety-post-market-assessment-program-launches-reassessment-bht-ada
-
-- Morinaga Milk Industry. Morinaga Milk Achieves Self-Affirmed GRAS Status for LAC-Living+™, Expanding U.S. Opportunities for Its Postbiotic Ingredient. 2026-07-06.  
-  https://www.businesswire.com/news/home/20260706806943/en/Morinaga-Milk-Achieves-Self-Affirmed-GRAS-Status-for-LAC-Living-Expanding-U.S.-Opportunities-for-Its-Postbiotic-Ingredient
-
-- Del Monte Corporation and Treatt. Launch Upcycled Fruit Extract Range for Beverage Innovation. 2026-07-07.  
-  https://www.businesswire.com/news/home/20260707780175/en/Del-Monte-Corporation-and-Treatt-Launch-Upcycled-Fruit-Extract-Range-for-Beverage-Innovation
-
-- Symeres. Expands Spray Drying Capabilities to Accelerate Complex Small Molecule Development. 2026-06-10.  
-  https://symeres.com/news/symeres-expands-spray-drying-capabilities-to-accelerate-complex-small-molecule-development/
-
-- ESTEVE CDMO. Plans Additional Spray Dryers and Containment in Girona, Spain, and Launches New Brand. 2026-03-20.  
-  https://www.esteve.com/global/media/news/esteve-cdmo-plans-additional-spray-dryers-and-containment-in-girona-spain-and-launches-new-brand
-
-- Axplora. Announces Multi-Million-Euro Investment to Expand Lyophilization at Le Mans and Appoints François Houbart as Head of Site. 2026-02-18.  
-  https://www.axplora.com/news/axplora-announces-multi-million-euro-investment-to-expand-lyophilization-at-le-mans-and-appoints-francois-houbart-as-head-of-site/
-
-- Ohly. Ohly Opens New Spray Drying Tower in Hamburg. 2026-01-15.  
-  https://www.ohly.com/en/news-events/news/ohly-opens-new-spray-drying-tower-in-hamburg/
+备注与方法说明：
+- 本日报优先纳入2026-07-11至2026-07-14（美国东部时区）内发布或更新的信息；若该时间窗内与“低温喷雾干燥/35°C进风/冻干替代”直接相关之高质量信息有限，则补充近7–14天内紧邻事件（已明确标注来源与日期），并在工艺建议中仅作可验证的小试与放大假设，不作适配性泛化承诺。
