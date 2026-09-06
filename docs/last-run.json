@@ -1,15 +1,16 @@
 {
-  "ran_at_utc": "2026-09-04T14:13:05Z",
-  "report_path": "D:/skills/codex/information/reports/2026-09-04-low-temperature-spray-dryer-market-report.md",
+  "ran_at_utc": "2026-09-06T14:20:23Z",
+  "report_path": "D:/skills/codex/information/reports/2026-09-06-low-temperature-spray-dryer-market-report.md",
   "notion_page": {
-    "id": "3d1c8717-dee0-8168-a657-d5513f203eb0",
-    "url": "https://app.notion.com/p/3d1c8717dee08168a657d5513f203eb0",
+    "id": "3d3c8717-dee0-81a5-9f07-c5b2c985b845",
+    "url": "https://app.notion.com/p/3d3c8717dee081a59f07c5b2c985b845",
     "parent_page_id": "36bc8717-dee0-812d-82d3-e2892298cd2c",
-    "title": "2026-09-04 低温喷雾干燥机行业情报日报"
+    "title": "2026-09-06 低温喷雾干燥机行业情报日报"
   },
   "notion_status": {
     "ok": true,
     "verified_ancestor_contains": "infomation",
+    "six_sections_and_final_source_read_back": true,
     "failure_reason": ""
   }
 }
