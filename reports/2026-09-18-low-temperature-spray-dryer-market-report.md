@@ -1,10 +1,26 @@
 # 2026-09-18 低温喷雾干燥机行业情报日报
 
-数据截止：2026-09-18 00:13（Asia/Shanghai）；本次为当日凌晨检索快照，不代表当日全天动态。最近已归档报告为9月16日。依据本项目 AGENTS.md 和 config/keywords.json；关键词配置完整，本次未修改。
+数据截止：2026-09-18 09:45（Asia/Shanghai）；本版更新当日00:13版，不代表当日全天动态。新增核验Upperton许可范围变更与Hovione设施开幕，公告日期分别为9月17日和9月16日，不写作9月18日发生。依据本项目 AGENTS.md 和 config/keywords.json；关键词配置完整，本次未修改。
 
 核心设备：35C inlet low-temperature spray dryer。替代路线：lyophilization / freeze drying。价值评估：activity retention、continuous production、lab-to-market scale-up、energy saving、shorter cycle time。35°C是待验证的进风条件，不代表物料温度、干燥终点或产品质量保证。
 
 ## 1. 全球市场动态 (Global Market Dynamics)
+
+### 🔵 Upperton无菌设施进入许可范围｜9月17日公告，晨间新增
+
+**已验证事实（企业公告口径）：** Upperton宣布其现有MIA(IMP)许可变更获批，范围覆盖Nottingham Trent Gateway新无菌设施，可开展无菌试验用药品GMP制造。此处确认的是企业发布该消息，未独立取得监管许可证附件。[S7](https://upperton.com/upperton-granted-mhra-license-for-annex-1-aligned-sterile-manufacturing-facility/)
+
+**来源推断：** 早期临床无菌制剂服务竞争进一步转向配方、分析和制造衔接。🔴 该公告不证明无菌喷干工艺已获许可，更不证明35°C工艺得到监管认可。
+
+**我方可切入机会：** 将Upperton升级为P1技术资格核实对象，先讨论复溶、聚集与粉体转移接口；须核实具体许可操作范围后再讨论无菌供样。
+
+### 🔵 Hovione新泽西商业喷干设施开幕｜9月16日公告，晨间新增状态核验
+
+**已验证事实（企业公告口径）：** 89 Twin Rivers新设施面积31,000平方英尺，增加两台GMP-ready商业级PSD-3；公司称美国喷干产能翻倍。揭幕活动为9月15日，新闻稿发布于9月16日，重点为难溶性药物的无定形固体分散体（ASD）。[S8](https://www.hovione.com/press-room/press-release/hovione-opens-new-facility-new-jersey-campus-doubling-us-spray-drying-capacity)
+
+**来源推断：** 药用喷干存在可核验的设施投资，但ASD产能不能计入35°C生物活性物料冻干替代市场。
+
+**我方可切入机会：** 以跨尺度质量可比性、收率和全系统能耗为合作议题；Hovione已有成熟喷干平台，是合作/竞争参照，不是已确认的整机采购客户。
 
 ### 🔵 Medisca成立全球多肽部门｜9月17日新公告
 
@@ -103,7 +119,10 @@ Neuland的冻干配置使比较对象更具体，但替代前必须取得实际�
 - **待核实：** 自产/外包界面、目标用途、供应商准入和是否实际控制干燥工艺。
 - **下一交付：** 一页质量证据清单；未确认制造决策权前不列为整机买家。
 
-### 🟢 Upperton Pharma Solutions｜英国｜P2，近期技术交流窗口
+### 🟢 Upperton Pharma Solutions｜英国｜P1，许可消息推动技术资格核实
+
+- **晨间新增触发：** 公司宣布MIA(IMP)范围扩展至新无菌设施，必须区别无菌临床制造与无菌喷干具体操作授权。[S7](https://upperton.com/upperton-granted-mhra-license-for-annex-1-aligned-sterile-manufacturing-facility/)
+- **新增核实项：** 许可附件范围、粉体无菌转移接口、目标临床制剂；先确认双方能力再定联合试验。
 
 - **证据触发：** 9月29日Basel活动中的生物制剂喷干议题。[S4](https://upperton.com/events/seminar-basel-sterile-formulation-development-to-clinic-29th-sept-2026/)
 - **目标角色：** Formulation Development/Particle Engineering；活动列出的科学团队是公开交流入口。
@@ -118,9 +137,17 @@ Neuland的冻干配置使比较对象更具体，但替代前必须取得实际�
 - **待核实：** 具体干燥适用物料和合作范围；培养基肽不等同GLP-1 API。
 - **下一交付：** 原料属性问题单；定位配方生态合作，不列设备采购需求。
 
+### 🟢 Hovione｜美国新泽西/葡萄牙｜P2，商业喷干合作与竞争参照
+
+- **证据触发：** 新设施增加PSD-3商业喷干能力，方向为ASD。[S8](https://www.hovione.com/press-room/press-release/hovione-opens-new-facility-new-jersey-campus-doubling-us-spray-drying-capacity)
+- **目标角色：** Particle Engineering、Process Development和Technical Operations，通过官网技术合作入口。
+- **拟切入点：** 热敏样品的质量与能耗对照；需先确认其是否存在常规喷干无法满足的具体物料。
+- **待核实：** 温度限制、溶剂系统、固态/残溶要求和外部设备合作意愿；无采购预算或订单证据。
+- **下一交付：** 内部形成样品筛选问卷，不据既有产线开幕推定新增采购需求。
+
 ## 5. 当日行动建议 (Action Items)
 
-1. **市场｜P0：** 将Medisca标为“新增渠道、制造方待确认”，将Neuland标为“商业模块已投运、干燥瓶颈待确认”；来源日期分别保留9月17日和9月15日。
+1. **市场｜P0：** 将Upperton升级为P1技术资格核实，记录许可范围待取证；将Hovione标为P2合作/竞争参照，区分ASD与冻干替代市场。将Medisca标为“新增渠道、制造方待确认”，将Neuland标为“商业模块已投运、干燥瓶颈待确认”；来源日期分别保留9月17日和9月15日。
 2. **研发｜P0：** 完成35°C水系载体运行门槛和模型酶四组试验方案；把活性、含水率、水活度、粒径、复溶、结构稳定性及收率写入同一数据表。此次只提供方案，没有执行设备或物料试验。
 3. **工程｜P0：** 核实露点、气量、压力、蒸发量和收粉配置；确认兼容性后再讨论客户溶剂体系。不得由低温参数推断无菌、闭式、惰性或真空能力。
 4. **商务｜P1：** 准备Neuland问卷及Upperton技术议题，不直接承诺“全面替代冻干”“零活性损失”或固定节能比例。
@@ -135,4 +162,9 @@ Neuland的冻干配置使比较对象更具体，但替代前必须取得实际�
 - **S5｜企业公告｜2026-09-10，历史持续跟踪：** [Lonza — Bend commercial spray-drying facility](https://www.lonza.com/news/2026-09-10-07-00)。规划完成时间2029年，不写成已投产。
 - **S6｜原始研究｜2026-09-09，历史方法参考：** [Spray Freeze Drying for Solid Formulations of RNA Lipid Nanoparticles](https://link.springer.com/article/10.1208/s12249-026-03516-1)。喷雾冷冻干燥不等于35°C蒸发式喷干。
 
-检索排除了重复转载、无法读取正文的性能数字、不能确定发表时间的未来期刊日期及缺乏一手依据的采购猜测。全文将企业公告事实、来源推断和我方机会分开；没有实际试验、客户接洽或新增监管结论。
+- **S7｜企业原始公告｜2026-09-17：** [Upperton — MIA(IMP) licence variation for sterile facility](https://upperton.com/upperton-granted-mhra-license-for-annex-1-aligned-sterile-manufacturing-facility/)。官网首页日期与公告正文交叉核对；没有获取监管许可证附件。
+- **S8｜企业原始公告｜2026-09-16：** [Hovione — New Jersey facility opening](https://www.hovione.com/press-room/press-release/hovione-opens-new-facility-new-jersey-campus-doubling-us-spray-drying-capacity)。正文已读取；9月15日揭幕与9月16日发布分开，GMP-ready不外推为所有产品工艺完成验证。
+
+**晨间增量检索说明：** 继续覆盖35°C/低温、GLP-1、多肽CDMO、冻干产能、蛋白/酶、益生菌、植物提取物、功能食品、新材料和节能。未取得9月18日当日发生且可由一手来源核实的35°C替代冻干突破或直接采购新事件。TU/e节能研究候选页面无法读取原站，未采用镜像中的项目与合作方信息；股票波动报道及抓取日期不作为产线需求证据。对既有S1—S6保留凌晨核验内容，本轮重点新增核对S7—S8。
+
+检索排除了重复转载、无法读取正文的性能数字、不能确定发表时间的未来期刊日期及缺乏一手依据的采购猜测。全文区分企业公告事实、来源推断和我方机会；没有实际试验或客户接洽。新增许可消息仅按Upperton公告范围表述，不构成对我方设备或工艺的合规结论。
