@@ -1,7 +1,7 @@
 # 2026-11-22 低温喷雾干燥机行业情报
 
-数据截止：2026-11-22 00:40（Asia/Shanghai）；检索日期为今日，消息发布日期逐条标注。项目：D:/skills/codex/information。关键词依据 config/keywords.json，配置完整，本次未改动。
-本次未检索到可核验的 11 月 22 日当天新增重大公告；采用截至检索时可获得的近期动态与技术基线。最近本地日报为 11 月 18 日，自动任务触发时间不等于已产出报告。
+数据截止：2026-11-22 13:45（Asia/Shanghai，午间增量复核）；检索日期为今日，消息发布日期逐条标注。项目：D:/skills/codex/information。关键词依据 config/keywords.json，配置完整，本次未改动。
+本次未检索到可核验的 11 月 22 日当天新增重大公告；采用截至检索时可获得的近期动态与技术基线。本次复用今日凌晨报告及归档页面；原七项来源与核验范围沿用凌晨记录，午间新增 S8–S9，不将旧消息改称今日发布。
 
 ## 1. 全球市场动态 (Global Market Dynamics)
 
@@ -14,6 +14,10 @@
 🔵 **食品、酶与益生菌：持续背景。**Novonesis 11 月 5 日披露前九个月有机销售增长 7%；这是 biosolutions 总体经营指标，不是干燥设备需求增幅。[S4] AgroParisTech 发布的 11 月 25–26 日 IAL AgriWalue 研讨会议程包含果汁喷雾包埋、生物基载体、葡萄渣提取物及纳米纤维素方向；截至今日仍是未来活动，不写成已完成成果。[S5]
 
 🔵 **冻干产能：具体扩建不等于全球短缺。**Axplora 公告正文日期为 2 月 18 日，网页标注 3 月 17 日；其 Le Mans 冻干扩建预计 2027 年上线，属既有 ADC 供应布局。[S6]【来源推断】对复杂药物，客户仍在增加冻干能力；替代方案必须逐产品论证，而不是以行业增长推出“冻干即将被淘汰”。
+
+🔵 **午间复核：生物制剂商业化边界。**【已验证事实】Lonza 10 月 1 日公告仍将无菌喷雾干燥定位为临床前项目，在概念验证之后开展平台开发、技术评估与客户验证；明确列出蛋白稳定性、无菌处理及放大挑战。[S8]【来源推断】行业机会在配方与验证能力，不仅在设备入口温度。【我方可切入机会】把 Lonza Bend 列为技术对标对象，不据此推定其采购意向或 35°C 能力。
+
+🔴 **益生菌新增研究线索。**PubMed 检索摘要列出 11 月 10 日口崩活菌制剂研究，采用 spray-freeze-drying（SFD）；页面直读未返回摘要正文，本次不引用效价数值。[S9] SFD 仍含冷冻及后续干燥步骤，不能算作低温喷雾替代冻干的验证；建议补论文方法后再与本项目水系酶小试比较。
 
 ## 2. 研发工艺匹配报告 (R&D & Process Alignment Report)
 
@@ -76,4 +80,9 @@
 - **S6｜正文 2026-02-18 / 页头 2026-03-17，公司公告：**[Axplora Le Mans lyophilization expansion](https://www.axplora.com/news/axplora-announces-multi-million-euro-investment-to-expand-lyophilization-at-le-mans-and-appoints-francois-houbart-as-head-of-site/)。2027 年上线为计划。
 - **S7｜无明确发布日期，供应商产品页：**[HJCHEM Low Temperature Spray Dryer](https://njhjchem.com/product/spray-dryers/low-temperature-spray-dryer/)。35°C 宣传与 40–100°C 规格冲突；营销性能未经独立验证。
 
+- **S8｜2026-10-01，官方公告，午间正文复核：**[Lonza preclinical aseptic spray drying](https://www.lonza.com/media-advisories/2026-10-01-14-00)。临床前平台开发，不是商业放行证明。
+- **S9｜2026-11-10，PubMed 搜索摘要，午间新增线索：**[Orodispersible live biotherapeutic products using spray-freeze-drying](https://pubmed.ncbi.nlm.nih.gov/43008958/)。直读未取得摘要正文，工艺及数值待全文核验。
+
 报告结束。以上已验证事实仅限所列来源明确支持的范围，来源推断与我方可切入机会不构成采购、性能或监管承诺。
+
+
